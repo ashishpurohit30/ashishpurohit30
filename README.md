@@ -1,7 +1,4 @@
-### Hi There 👋
-
-https://github-readme-stats.vercel.app/api?username=ashishpurohit30&count_private=true
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishpurohit30)](https://github.com/ashishpurohit30/github-readme-stats)
 <!--
 **ashishpurohit30/ashishpurohit30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
